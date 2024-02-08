@@ -1,0 +1,10 @@
+PUT http://localhost:8080/events/6
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImV4YW1wbGU0QG1haWwucnUiLCJleHQiOjE3MDczMzI1NDEsInVzZXJJZCI6M30.16ZLYeNLILGLDZ98b1kYVNTQwnvc-umb2AngUoPtDbo
+
+{
+  "name": "Test ",
+  "description": "A test",
+  "location": "A test location adf ",
+  "dateTime": "2025-01-01T15:30:00.000Z"
+}
